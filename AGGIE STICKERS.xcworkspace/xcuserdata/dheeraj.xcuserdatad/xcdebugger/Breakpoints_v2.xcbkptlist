@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2E4315E-D4FC-48F3-921B-880FF4F2EE5E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB9EB0BB-E4F0-44AE-ADA1-B409AC1B7A63"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/Api/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "signup(url:params:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A542837-83D5-4881-AB59-866DF97F6F2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/Api/Api.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "signup(url:params:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9236D0B9-C5C0-464B-BD52-2B998F5415E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/Extra/Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "9236D0B9-C5C0-464B-BD52-2B998F5415E2 - a273cf9dfdfcfe0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_FAF0A9572BA08031FF4BBCAB5EDC5B7C_func3"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9236D0B9-C5C0-464B-BD52-2B998F5415E2 - 7784703ba2d29e2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGGIE_STICKERS.kAdminStoryboardIdentifier.unsafeMutableAddressor : Swift.String"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "232AEEA7-CCF0-4D1B-BA45-BE3C2229F464"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/Extra/Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "232AEEA7-CCF0-4D1B-BA45-BE3C2229F464 - a273cf9dfddcffc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_FAF0A9572BA08031FF4BBCAB5EDC5B7C_func5"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "232AEEA7-CCF0-4D1B-BA45-BE3C2229F464 - 74307964030671ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGGIE_STICKERS.LIGHT_GRAY_COLOR.unsafeMutableAddressor : __C.UIColor"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFF989C8-420E-46B2-84DD-32FFEFB45B7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/Extra/Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "DFF989C8-420E-46B2-84DD-32FFEFB45B7C - a273cf9dfdacfcbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_FAF0A9572BA08031FF4BBCAB5EDC5B7C_func6"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "DFF989C8-420E-46B2-84DD-32FFEFB45B7C - 8d0b2d08ae6b70c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGGIE_STICKERS.kNoInternetTitle.unsafeMutableAddressor : Swift.String"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68693702-6CED-4CB3-B21E-1F279A526052"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/Extra/Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "68693702-6CED-4CB3-B21E-1F279A526052 - a273cf9dfd8cfcc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_FAF0A9572BA08031FF4BBCAB5EDC5B7C_func8"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "68693702-6CED-4CB3-B21E-1F279A526052 - 1caa5ff8dd2acbf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AGGIE_STICKERS.kEmailNotVerifiedMessage.unsafeMutableAddressor : Swift.String"
+                  moduleName = "AGGIE STICKERS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dheeraj/iOS%20App%20Development/AGGIE%20STICKERS/AGGIE%20STICKERS/Extra/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CB96BD5-B61F-41A2-87E2-FEF0AD078F22"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AGGIE STICKERS/ViewController/Home/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
